@@ -48,9 +48,9 @@ def update_application(repo_owner, repo_name, current_version):
         pass
         
 
-repo_owner = 'Nyxoy201'
-repo_name = 'nebula'
-current_version = 'v1.3.2'
+repo_owner = 'luckygames'
+repo_name = 'luckyTool'
+current_version = 'V1'
 
 update_application(repo_owner, repo_name, current_version)
 
@@ -714,3 +714,4 @@ async def on_ready():
 
 if __name__ == "__main__":
     bot.run(bot_token)
+
